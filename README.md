@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mikhail "dino" Dymnikov</h1>
+<h1 align="center">👋 Hi, I'm Mikhail Dymnikov ("dino")</h1>
 
 <p align="center">
   Software Engineer @ T-Bank · Student @ ITMO University · Backend Developer
