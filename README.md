@@ -12,5 +12,6 @@
 
 
 ## 🚀 About Me
+- 🏦 T-bank SDE
 - 🎓 Student at ITMO University
 - 💻 Python Developer
